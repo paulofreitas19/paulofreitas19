@@ -1,9 +1,4 @@
-## Hi there 👋
 
-<!--
-**paulofreitas19/paulofreitas19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 🚀 "Viver pra ser melhor, também é um jeito de levar a vida."
 🔭 Estou atualmente trabalhando com Projetos Elétricos
