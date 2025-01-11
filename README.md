@@ -46,7 +46,7 @@ Aproveita e visita o meu "[Portfólio](https://paulofreitas19.github.io/portfoli
   alt="github statics"
   height="200"
   style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulofreitas19&theme=tokyonight&layout=compact&cumtom_title=Tecnologias&langs_count=8"/>
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulofreitas19&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"/>
 
 
 
