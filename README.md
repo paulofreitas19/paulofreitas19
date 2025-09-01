@@ -12,7 +12,8 @@ Também sou professor de desenvolvimento de sistemas e utilizo o desenvolvimento
 
 Codificar jogos é meu laboratório. 💻🎮💜
 
-
+<br/>
+<br/>
 
 Hello! Welcome to this profile of yours truly 😎
 
