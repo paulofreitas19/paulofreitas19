@@ -2,11 +2,27 @@
 
 **`Professor de Desenvolvimento de Sistemas`**
 
-Olá, me chamo Paulo Freitas! 😎
+Salve salve! Seja muito bem-vindo a este perfil de quem vos fala 😎
 
-Sou professor há alguns anos no curso Técnico em Desenvolvimento de Sistemas integrado ao ensino médio, e te garanto que é possível transformar a sala de aula em um ambiente leve, divertido e mesmo assim, cheio de aprendizado. O que eu mais gosto em ser professor, talvez seja poder descomplicar temas complexos e mostrar que programação não é um bicho de sete cabeças e sim uma maravilhosa forma de trabalhar e ganhar a vida. 🧑‍💻☕❤️
+Sou programador de jogos focado em Unity, com projetos voltados à experimentação e estudo técnico.
 
-Aproveita e visita o meu "[Portfólio](https://paulofreitas19.github.io/portfolio/)"!
+Atuo como desenvolvedor indie — não comercial — criando mecânicas, sistemas e interações para aprofundar minha expertise em C# aplicado a jogos.
+
+Também sou professor de desenvolvimento de sistemas e utilizo o desenvolvimento de jogos como ferramenta para ensinar lógica, estrutura e criatividade aplicada à programação.
+
+Codificar jogos é meu laboratório. 💻🎮💜
+
+
+
+Hello! Welcome to this profile of yours truly 😎
+
+I'm a game programmer focused on Unity, with projects focused on experimentation and technical study.
+
+I work as an indie developer—not a commercial developer—creating mechanics, systems, and interactions to deepen my expertise in C# applied to games.
+
+I also teach systems development and use game development as a tool to teach logic, structure, and creativity applied to programming.
+
+Coding games is my laboratory. 💻🎮💜
 <br/>
 <div> 
   <a href="https://www.linkedin.com/in/paulo-freitas-398a15326/"    target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
