@@ -2,7 +2,7 @@
 
 **`Professor de Desenvolvimento de Sistemas`**
 
-Salve salve! Seja muito bem-vindo a este 😎
+Salve salve! Seja muito bem-vindo.😎
 
 Sou programador de jogos focado em Unity, com projetos voltados à experimentação e estudo técnico.
 
@@ -15,7 +15,7 @@ Codificar jogos é meu laboratório. 💻🎮💜
 <br/>
 <br/>
 
-Hello! Welcome to this profile of yours truly 😎
+Welcome! 😎
 
 I'm a game programmer focused on Unity, with projects focused on experimentation and technical study.
 
