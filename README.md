@@ -2,11 +2,11 @@
 
 **`Professor de Desenvolvimento de Sistemas`**
 
-Salve salve! Seja muito bem-vindo a este perfil de quem vos fala 😎
+Salve salve! Seja muito bem-vindo a este 😎
 
 Sou programador de jogos focado em Unity, com projetos voltados à experimentação e estudo técnico.
 
-Atuo como desenvolvedor indie — não comercial — criando mecânicas, sistemas e interações para aprofundar minha expertise em C# aplicado a jogos.
+Atuo como desenvolvedor indie — não comercial por enquanto — criando mecânicas, sistemas e interações para aprofundar minha expertise em C# aplicado a jogos.
 
 Também sou professor de desenvolvimento de sistemas e utilizo o desenvolvimento de jogos como ferramenta para ensinar lógica, estrutura e criatividade aplicada à programação.
 
